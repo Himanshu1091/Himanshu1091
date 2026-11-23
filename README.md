@@ -48,9 +48,10 @@
 
 | Project | What it is | Tech |
 |---|---|---|
-| **[Online Code Compiler](https://compiler.linkcode.in/)** | Multi-language online compiler with a real interactive terminal (PTY over WebSockets), per-language SEO pages, sandboxed Docker execution. | Next.js · WebSockets · Docker |
-| **[Deploylab](https://github.com/Himanshu1091/Deploylab)** | End-to-end MERN deployment on AWS EC2 — Nginx, PM2, MongoDB Atlas, and CI/CD that auto-deploys in under a minute. | MERN · AWS · GitHub Actions |
 | **[TumharaJob](https://www.tumharajob.com/)** | Role-based job portal for ITI & diploma students — job posting, hiring, applications. *(Team lead)* | React · Node · MongoDB |
+| **[CRM-ERP](https://github.com/linkcode-technologies/CRM-ERP)** | Full-fledged CRM-ERP platform built end-to-end — leads, sales, inventory, and ops workflows. | React · Node · MongoDB |
+| **[Deploylab](https://github.com/Himanshu1091/Deploylab)** | End-to-end MERN deployment on AWS EC2 — Nginx, PM2, MongoDB Atlas, and CI/CD that auto-deploys in under a minute. | MERN · AWS · GitHub Actions |
+| **[Online Code Compiler](https://compiler.linkcode.in/)** | Multi-language online compiler with a real interactive terminal (PTY over WebSockets), per-language SEO pages, sandboxed Docker execution. | Next.js · WebSockets · Docker |
 
 ---
 
