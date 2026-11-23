@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 
-- 💻 Full Stack Developer with 1+ year of experience building production MERN applications.
+- 💻 Full Stack Developer with 1+ year of experience building production applications.
 - 🧩 Comfortable across the stack: **React, Node.js, Express, MongoDB**, plus **Java / Spring Boot**.
 - ☁️ Hands-on with deployment & DevOps — **AWS EC2, Nginx, PM2, GitHub Actions CI/CD**.
 - ⚡ Build faster with AI-assisted tools like **Claude Code** and **Antigravity**.
