@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Himanshu Londhe 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer (MERN) · Software Developer</b><br>
+  <b>Full Stack Developer · Software Developer</b><br>
   Building scalable web apps end-to-end — from React UIs to Node APIs to AWS deployments.
 </p>
 
@@ -57,7 +57,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu1091&theme=tokyonight&hide_border=true" alt="GitHub streak">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Himanshu1091&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu1091&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
 </p>
 
 ---
